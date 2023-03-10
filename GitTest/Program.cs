@@ -11,6 +11,7 @@ namespace GitTest
         static void Main(string[] args)
         {
             // 테스트 중입니다.
+            // 깃허브 페이지에서 테스트 중입니다.
         }
     }
 }
