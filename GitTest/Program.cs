@@ -10,6 +10,7 @@ namespace GitTest
     {
         static void Main(string[] args)
         {
+            // 테스트 중입니다.
         }
     }
 }
